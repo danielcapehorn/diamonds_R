@@ -1,4 +1,4 @@
-[Link to R Markdown html](https://c6d36663b4624f3c8a19cef76c3456e4.app.posit.cloud/file_show?path=%2Ftmp%2FRtmpzyw5gh%2Fpreview-1942089a8c5.html)
+[Link to R Markdown html](https://c6d36663b4624f3c8a19cef76c3456e4.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2Fdiamonds_markdown.html)
 
 title: "Diamonds_ggplot"\
 author: "Daniel Capehorn"\
